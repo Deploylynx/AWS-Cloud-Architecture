@@ -51,3 +51,54 @@ Designed and built by **Deploylynx**, this architecture demonstrates secure, sca
 ---
 
 ## 📂 Project Structure
+
+AWS-Cloud-Architecture/
+│
+├── architecture/
+│ └── diagram.png
+│
+├── docs/
+│ └── architecture.md
+│
+├── infrastructure/
+│ ├── ec2-setup.md
+│ ├── s3-setup.md
+│ └── vpc-setup.md
+│
+└── README.md
+
+
+---
+
+## 🚀 How to Use
+
+1. Review architecture diagram
+2. Follow setup guides in `/infrastructure`
+3. Deploy on AWS step by step
+
+
+---
+
+## 🚀 How to Use
+
+1. Review architecture diagram
+2. Follow setup guides in `/infrastructure`
+3. Deploy on AWS step by step
+
+---
+
+## 👨‍💻 Author
+
+**Deploylynx**
+
+---
+
+## ⭐ Contribution
+
+Feel free to fork, improve, and contribute!
+
+---
+
+## 📜 License
+
+MIT License
